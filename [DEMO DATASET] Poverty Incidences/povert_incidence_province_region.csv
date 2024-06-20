@@ -1,0 +1,426 @@
+﻿Year,Poverty Incidence (%),Region,Province
+1991,7.1,NCR - National Capital Region,All
+2006,4.7,NCR - National Capital Region,All
+2009,3.6,NCR - National Capital Region,All
+2012,3.9,NCR - National Capital Region,All
+2015,3.9,NCR - National Capital Region,All
+2006,4.9,NCR - National Capital Region,1st District
+2009,5.1,NCR - National Capital Region,1st District
+2012,6.2,NCR - National Capital Region,1st District
+2015,5.1,NCR - National Capital Region,1st District
+2006,4.9,NCR - National Capital Region,2nd District
+2009,3.3,NCR - National Capital Region,2nd District
+2012,2.4,NCR - National Capital Region,2nd District
+2015,2.9,NCR - National Capital Region,2nd District
+2006,4.6,NCR - National Capital Region,3rd District
+2009,4.5,NCR - National Capital Region,3rd District
+2012,3.8,NCR - National Capital Region,3rd District
+2015,4.1,NCR - National Capital Region,3rd District
+2006,4.4,NCR - National Capital Region,4th District
+2009,2.4,NCR - National Capital Region,4th District
+2012,4.8,NCR - National Capital Region,4th District
+2015,4.5,NCR - National Capital Region,4th District
+1991,42.7,CAR - Corillera Administrative Region,All
+2006,26,CAR - Corillera Administrative Region,All
+2009,25.1,CAR - Corillera Administrative Region,All
+2012,22.8,CAR - Corillera Administrative Region,All
+2015,19.7,CAR - Corillera Administrative Region,All
+2006,49.3,CAR - Corillera Administrative Region,Abra
+2009,48.8,CAR - Corillera Administrative Region,Abra
+2012,37.4,CAR - Corillera Administrative Region,Abra
+2015,28.9,CAR - Corillera Administrative Region,Abra
+2006,46.8,CAR - Corillera Administrative Region,Apayao
+2009,45.7,CAR - Corillera Administrative Region,Apayao
+2012,61.4,CAR - Corillera Administrative Region,Apayao
+2015,34.9,CAR - Corillera Administrative Region,Apayao
+2006,5.8,CAR - Corillera Administrative Region,Benguet
+2009,6.1,CAR - Corillera Administrative Region,Benguet
+2012,3.7,CAR - Corillera Administrative Region,Benguet
+2015,3.5,CAR - Corillera Administrative Region,Benguet
+2006,28,CAR - Corillera Administrative Region,Ifugao
+2009,32.1,CAR - Corillera Administrative Region,Ifugao
+2012,42.4,CAR - Corillera Administrative Region,Ifugao
+2015,32.5,CAR - Corillera Administrative Region,Ifugao
+2006,47.3,CAR - Corillera Administrative Region,Kalinga
+2009,30.1,CAR - Corillera Administrative Region,Kalinga
+2012,26.8,CAR - Corillera Administrative Region,Kalinga
+2015,34.9,CAR - Corillera Administrative Region,Kalinga
+2006,44.1,CAR - Corillera Administrative Region,Mt. Province
+2009,52.2,CAR - Corillera Administrative Region,Mt. Province
+2012,37.6,CAR - Corillera Administrative Region,Mt. Province
+2015,39,CAR - Corillera Administrative Region,Mt. Province
+1991,36.6,Region I - Ilocos,All
+2006,25.9,Region I - Ilocos,All
+2009,22,Region I - Ilocos,All
+2012,18.5,Region I - Ilocos,All
+2015,13.1,Region I - Ilocos,All
+2006,17.7,Region I - Ilocos,Ilocos Norte
+2009,14.7,Region I - Ilocos,Ilocos Norte
+2012,9.9,Region I - Ilocos,Ilocos Norte
+2015,5.3,Region I - Ilocos,Ilocos Norte
+2006,20.8,Region I - Ilocos,Ilocos Sur
+2009,18.1,Region I - Ilocos,Ilocos Sur
+2012,17.3,Region I - Ilocos,Ilocos Sur
+2015,12.1,Region I - Ilocos,Ilocos Sur
+2006,26,Region I - Ilocos,La Union
+2009,29.3,Region I - Ilocos,La Union
+2012,18.5,Region I - Ilocos,La Union
+2015,12.2,Region I - Ilocos,La Union
+2006,28.7,Region I - Ilocos,Pangasinan
+2009,22.3,Region I - Ilocos,Pangasinan
+2012,20.4,Region I - Ilocos,Pangasinan
+2015,15.3,Region I - Ilocos,Pangasinan
+1991,42.8,Region II  - Cagayan Valley,All
+2006,26.8,Region II  - Cagayan Valley,All
+2009,25.5,Region II  - Cagayan Valley,All
+2012,22.1,Region II  - Cagayan Valley,All
+2015,15.8,Region II  - Cagayan Valley,All
+2006,16.6,Region II  - Cagayan Valley,Batanes
+2009,14.4,Region II  - Cagayan Valley,Batanes
+2012,33.3,Region II  - Cagayan Valley,Batanes
+2015,0,Region II  - Cagayan Valley,Batanes
+2006,29.6,Region II  - Cagayan Valley,Cagayan
+2009,27.8,Region II  - Cagayan Valley,Cagayan
+2012,19.7,Region II  - Cagayan Valley,Cagayan
+2015,15.9,Region II  - Cagayan Valley,Cagayan
+2006,29.6,Region II  - Cagayan Valley,Isabela
+2009,28.9,Region II  - Cagayan Valley,Isabela
+2012,24.4,Region II  - Cagayan Valley,Isabela
+2015,15.2,Region II  - Cagayan Valley,Isabela
+2006,15,Region II  - Cagayan Valley,Nueva Vizcaya
+2009,13.3,Region II  - Cagayan Valley,Nueva Vizcaya
+2012,20.7,Region II  - Cagayan Valley,Nueva Vizcaya
+2015,13.6,Region II  - Cagayan Valley,Nueva Vizcaya
+2006,14.6,Region II  - Cagayan Valley,Quirino
+2009,15.6,Region II  - Cagayan Valley,Quirino
+2012,21.2,Region II  - Cagayan Valley,Quirino
+2015,26.5,Region II  - Cagayan Valley,Quirino
+1991,21.1,Region III - Central Luzon,All
+2006,13.1,Region III - Central Luzon,All
+2009,13.7,Region III - Central Luzon,All
+2012,12.9,Region III - Central Luzon,All
+2015,11.2,Region III - Central Luzon,All
+2006,30.5,Region III - Central Luzon,Aurora
+2009,18.2,Region III - Central Luzon,Aurora
+2012,30.8,Region III - Central Luzon,Aurora
+2015,26.3,Region III - Central Luzon,Aurora
+2006,9.7,Region III - Central Luzon,Bataan
+2009,7.7,Region III - Central Luzon,Bataan
+2012,7.1,Region III - Central Luzon,Bataan
+2015,2,Region III - Central Luzon,Bataan
+2006,7.3,Region III - Central Luzon,Bulacan
+2009,6.9,Region III - Central Luzon,Bulacan
+2012,7.3,Region III - Central Luzon,Bulacan
+2015,4.5,Region III - Central Luzon,Bulacan
+2006,26.5,Region III - Central Luzon,Nueva Ecija
+2009,29.9,Region III - Central Luzon,Nueva Ecija
+2012,25.2,Region III - Central Luzon,Nueva Ecija
+2015,22.6,Region III - Central Luzon,Nueva Ecija
+2006,2.7,Region III - Central Luzon,Pampanga
+2009,6.9,Region III - Central Luzon,Pampanga
+2012,7.6,Region III - Central Luzon,Pampanga
+2015,4.9,Region III - Central Luzon,Pampanga
+2006,18.1,Region III - Central Luzon,Tarlac
+2009,17.5,Region III - Central Luzon,Tarlac
+2012,16.6,Region III - Central Luzon,Tarlac
+2015,18.1,Region III - Central Luzon,Tarlac
+2006,23.6,Region III - Central Luzon,Zambales
+2009,17.3,Region III - Central Luzon,Zambales
+2012,16,Region III - Central Luzon,Zambales
+2015,16.8,Region III - Central Luzon,Zambales
+1991,22.7,Region IVA - CALABARZON,All
+2006,10.3,Region IVA - CALABARZON,All
+2009,11.9,Region IVA - CALABARZON,All
+2012,10.9,Region IVA - CALABARZON,All
+2015,9.1,Region IVA - CALABARZON,All
+2006,14.4,Region IVA - CALABARZON,Batangas
+2009,17.1,Region IVA - CALABARZON,Batangas
+2012,19,Region IVA - CALABARZON,Batangas
+2015,9.3,Region IVA - CALABARZON,Batangas
+2006,1.8,Region IVA - CALABARZON,Cavite
+2009,3.2,Region IVA - CALABARZON,Cavite
+2012,3.4,Region IVA - CALABARZON,Cavite
+2015,6.8,Region IVA - CALABARZON,Cavite
+2006,5.5,Region IVA - CALABARZON,Laguna
+2009,8.4,Region IVA - CALABARZON,Laguna
+2012,6.4,Region IVA - CALABARZON,Laguna
+2015,5.4,Region IVA - CALABARZON,Laguna
+2006,33.5,Region IVA - CALABARZON,Quezon
+2009,29.8,Region IVA - CALABARZON,Quezon
+2012,27.5,Region IVA - CALABARZON,Quezon
+2015,22.7,Region IVA - CALABARZON,Quezon
+2006,3.3,Region IVA - CALABARZON,Rizal
+2009,8.6,Region IVA - CALABARZON,Rizal
+2012,6.1,Region IVA - CALABARZON,Rizal
+2015,5.4,Region IVA - CALABARZON,Rizal
+1991,44.4,Region IVB - MIMAROPA,All
+2006,40.6,Region IVB - MIMAROPA,All
+2009,34.5,Region IVB - MIMAROPA,All
+2012,31,Region IVB - MIMAROPA,All
+2015,24.4,Region IVB - MIMAROPA,All
+2006,40.5,Region IVB - MIMAROPA,Marinduque
+2009,33.6,Region IVB - MIMAROPA,Marinduque
+2012,32.9,Region IVB - MIMAROPA,Marinduque
+2015,16.2,Region IVB - MIMAROPA,Marinduque
+2006,43.2,Region IVB - MIMAROPA,Occidental Mindoro
+2009,35.9,Region IVB - MIMAROPA,Occidental Mindoro
+2012,38.1,Region IVB - MIMAROPA,Occidental Mindoro
+2015,41.2,Region IVB - MIMAROPA,Occidental Mindoro
+2006,43.7,Region IVB - MIMAROPA,Oriental Mindoro
+2009,36.1,Region IVB - MIMAROPA,Oriental Mindoro
+2012,29.3,Region IVB - MIMAROPA,Oriental Mindoro
+2015,21.6,Region IVB - MIMAROPA,Oriental Mindoro
+2006,35.2,Region IVB - MIMAROPA,Palawan
+2009,30.9,Region IVB - MIMAROPA,Palawan
+2012,26.4,Region IVB - MIMAROPA,Palawan
+2015,17,Region IVB - MIMAROPA,Palawan
+2006,46.1,Region IVB - MIMAROPA,Romblon
+2009,41.9,Region IVB - MIMAROPA,Romblon
+2012,40.5,Region IVB - MIMAROPA,Romblon
+2015,36.6,Region IVB - MIMAROPA,Romblon
+1991,54.5,Region V - Bicol,All
+2006,44.2,Region V - Bicol,All
+2009,44.2,Region V - Bicol,All
+2012,41.1,Region V - Bicol,All
+2015,36,Region V - Bicol,All
+2006,36.4,Region V - Bicol,Albay
+2009,36.7,Region V - Bicol,Albay
+2012,41,Region V - Bicol,Albay
+2015,25.2,Region V - Bicol,Albay
+2006,41.1,Region V - Bicol,Camarines Norte
+2009,41.8,Region V - Bicol,Camarines Norte
+2012,28.7,Region V - Bicol,Camarines Norte
+2015,36.4,Region V - Bicol,Camarines Norte
+2006,47.8,Region V - Bicol,Camarines Sur
+2009,47.9,Region V - Bicol,Camarines Sur
+2012,41.2,Region V - Bicol,Camarines Sur
+2015,35.2,Region V - Bicol,Camarines Sur
+2006,41.4,Region V - Bicol,Catanduanes
+2009,29.1,Region V - Bicol,Catanduanes
+2012,33.8,Region V - Bicol,Catanduanes
+2015,43.4,Region V - Bicol,Catanduanes
+2006,53.6,Region V - Bicol,Masbate
+2009,56.3,Region V - Bicol,Masbate
+2012,51.3,Region V - Bicol,Masbate
+2015,45.4,Region V - Bicol,Masbate
+2006,41.2,Region V - Bicol,Sorsogon
+2009,39.3,Region V - Bicol,Sorsogon
+2012,40.7,Region V - Bicol,Sorsogon
+2015,41.3,Region V - Bicol,Sorsogon
+1991,39.6,Region VI - Western Visayas,All
+2006,29.1,Region VI - Western Visayas,All
+2009,30.8,Region VI - Western Visayas,All
+2012,29.1,Region VI - Western Visayas,All
+2015,22.4,Region VI - Western Visayas,All
+2006,41.8,Region VI - Western Visayas,Aklan
+2009,44.7,Region VI - Western Visayas,Aklan
+2012,25,Region VI - Western Visayas,Aklan
+2015,14.9,Region VI - Western Visayas,Aklan
+2006,51.6,Region VI - Western Visayas,Antique
+2009,44.3,Region VI - Western Visayas,Antique
+2012,30.9,Region VI - Western Visayas,Antique
+2015,26,Region VI - Western Visayas,Antique
+2006,29.9,Region VI - Western Visayas,Capiz
+2009,29,Region VI - Western Visayas,Capiz
+2012,27.8,Region VI - Western Visayas,Capiz
+2015,12.9,Region VI - Western Visayas,Capiz
+2006,25.3,Region VI - Western Visayas,Guimaras
+2009,20.7,Region VI - Western Visayas,Guimaras
+2012,25.2,Region VI - Western Visayas,Guimaras
+2015,5.2,Region VI - Western Visayas,Guimaras
+2006,21.8,Region VI - Western Visayas,Iloilo
+2009,26.6,Region VI - Western Visayas,Iloilo
+2012,26.2,Region VI - Western Visayas,Iloilo
+2015,20,Region VI - Western Visayas,Iloilo
+2006,28.2,Region VI - Western Visayas,Negros Occidental
+2009,30.4,Region VI - Western Visayas,Negros Occidental
+2012,32.3,Region VI - Western Visayas,Negros Occidental
+2015,29,Region VI - Western Visayas,Negros Occidental
+1991,43.6,Region VII - Central Visayas,All
+2006,35.9,Region VII - Central Visayas,All
+2009,31,Region VII - Central Visayas,All
+2012,30.2,Region VII - Central Visayas,All
+2015,27.6,Region VII - Central Visayas,All
+2006,48.2,Region VII - Central Visayas,Bohol
+2009,43.7,Region VII - Central Visayas,Bohol
+2012,36.8,Region VII - Central Visayas,Bohol
+2015,26,Region VII - Central Visayas,Bohol
+2006,30.4,Region VII - Central Visayas,Cebu
+2009,26.8,Region VII - Central Visayas,Cebu
+2012,22.7,Region VII - Central Visayas,Cebu
+2015,21.4,Region VII - Central Visayas,Cebu
+2006,42.9,Region VII - Central Visayas,Negros Oriental
+2009,33.2,Region VII - Central Visayas,Negros Oriental
+2012,50.1,Region VII - Central Visayas,Negros Oriental
+2015,45,Region VII - Central Visayas,Negros Oriental
+2006,22.7,Region VII - Central Visayas,Siquijor
+2009,31,Region VII - Central Visayas,Siquijor
+2012,32.6,Region VII - Central Visayas,Siquijor
+2015,52.9,Region VII - Central Visayas,Siquijor
+1991,50,Region VIII -  Eastern Visayas,All
+2006,41.5,Region VIII -  Eastern Visayas,All
+2009,42.6,Region VIII -  Eastern Visayas,All
+2012,45.2,Region VIII -  Eastern Visayas,All
+2015,38.7,Region VIII -  Eastern Visayas,All
+2006,29.8,Region VIII -  Eastern Visayas,Biliran
+2009,39.2,Region VIII -  Eastern Visayas,Biliran
+2012,27.5,Region VIII -  Eastern Visayas,Biliran
+2015,21.3,Region VIII -  Eastern Visayas,Biliran
+2006,51.3,Region VIII -  Eastern Visayas,Eastern Samar
+2009,56.4,Region VIII -  Eastern Visayas,Eastern Samar
+2012,63.7,Region VIII -  Eastern Visayas,Eastern Samar
+2015,46.3,Region VIII -  Eastern Visayas,Eastern Samar
+2006,38.4,Region VIII -  Eastern Visayas,Leyte
+2009,36.3,Region VIII -  Eastern Visayas,Leyte
+2012,39.2,Region VIII -  Eastern Visayas,Leyte
+2015,31,Region VIII -  Eastern Visayas,Leyte
+2006,53.4,Region VIII -  Eastern Visayas,Northern Samar
+2009,52.1,Region VIII -  Eastern Visayas,Northern Samar
+2012,50.2,Region VIII -  Eastern Visayas,Northern Samar
+2015,56.2,Region VIII -  Eastern Visayas,Northern Samar
+2006,33.7,Region VIII -  Eastern Visayas,Southern Leyte
+2009,43.1,Region VIII -  Eastern Visayas,Southern Leyte
+2012,43.3,Region VIII -  Eastern Visayas,Southern Leyte
+2015,38,Region VIII -  Eastern Visayas,Southern Leyte
+2006,40.4,Region VIII -  Eastern Visayas,Western Samar
+2009,42.5,Region VIII -  Eastern Visayas,Western Samar
+2012,50,Region VIII -  Eastern Visayas,Western Samar
+2015,46.9,Region VIII -  Eastern Visayas,Western Samar
+1991,40.3,Region IX - Zamboanga Peninsula,All
+2006,45,Region IX - Zamboanga Peninsula,All
+2009,45.8,Region IX - Zamboanga Peninsula,All
+2012,40.1,Region IX - Zamboanga Peninsula,All
+2015,33.9,Region IX - Zamboanga Peninsula,All
+2006,65.5,Region IX - Zamboanga Peninsula,Zamboanga del Norte
+2009,68.5,Region IX - Zamboanga Peninsula,Zamboanga del Norte
+2012,54.4,Region IX - Zamboanga Peninsula,Zamboanga del Norte
+2015,51.6,Region IX - Zamboanga Peninsula,Zamboanga del Norte
+2006,31.7,Region IX - Zamboanga Peninsula,Zamboanga del Sur
+2009,31.6,Region IX - Zamboanga Peninsula,Zamboanga del Sur
+2012,32,Region IX - Zamboanga Peninsula,Zamboanga del Sur
+2015,24.8,Region IX - Zamboanga Peninsula,Zamboanga del Sur
+2006,50.7,Region IX - Zamboanga Peninsula,Zamboanga Sibugay
+2009,52.7,Region IX - Zamboanga Peninsula,Zamboanga Sibugay
+2012,44.8,Region IX - Zamboanga Peninsula,Zamboanga Sibugay
+2015,31.7,Region IX - Zamboanga Peninsula,Zamboanga Sibugay
+2006,41.9,Region IX - Zamboanga Peninsula,Isabela City
+2009,27.4,Region IX - Zamboanga Peninsula,Isabela City
+2012,22.1,Region IX - Zamboanga Peninsula,Isabela City
+2015,25.1,Region IX - Zamboanga Peninsula,Isabela City
+1991,46.6,Region X - Northern Mindanao,All
+2006,39,Region X - Northern Mindanao,All
+2009,40.1,Region X - Northern Mindanao,All
+2012,39.5,Region X - Northern Mindanao,All
+2015,36.6,Region X - Northern Mindanao,All
+2006,43.6,Region X - Northern Mindanao,Bukidnon
+2009,46,Region X - Northern Mindanao,Bukidnon
+2012,49,Region X - Northern Mindanao,Bukidnon
+2015,53.6,Region X - Northern Mindanao,Bukidnon
+2006,34.6,Region X - Northern Mindanao,Camiguin
+2009,25.5,Region X - Northern Mindanao,Camiguin
+2012,53.6,Region X - Northern Mindanao,Camiguin
+2015,34,Region X - Northern Mindanao,Camiguin
+2006,40.7,Region X - Northern Mindanao,Lanao del Norte
+2009,46.2,Region X - Northern Mindanao,Lanao del Norte
+2012,49.1,Region X - Northern Mindanao,Lanao del Norte
+2015,44.3,Region X - Northern Mindanao,Lanao del Norte
+2006,44,Region X - Northern Mindanao,Misamis Occidental
+2009,46.5,Region X - Northern Mindanao,Misamis Occidental
+2012,42.8,Region X - Northern Mindanao,Misamis Occidental
+2015,36.9,Region X - Northern Mindanao,Misamis Occidental
+2006,32,Region X - Northern Mindanao,Misamis Oriental
+2009,28.9,Region X - Northern Mindanao,Misamis Oriental
+2012,23.4,Region X - Northern Mindanao,Misamis Oriental
+2015,19.3,Region X - Northern Mindanao,Misamis Oriental
+1991,39.6,Region XI - Davao,All
+2006,30.6,Region XI - Davao,All
+2009,31.4,Region XI - Davao,All
+2012,30.7,Region XI - Davao,All
+2015,22,Region XI - Davao,All
+2006,31.7,Region XI - Davao,Davao del Norte
+2009,32,Region XI - Davao,Davao del Norte
+2012,33.4,Region XI - Davao,Davao del Norte
+2015,33.2,Region XI - Davao,Davao del Norte
+2006,23.7,Region XI - Davao,Davao del Sur
+2009,24.8,Region XI - Davao,Davao del Sur
+2012,24.4,Region XI - Davao,Davao del Sur
+2015,15.6,Region XI - Davao,Davao del Sur
+2006,50.5,Region XI - Davao,Davao Oriental
+2009,54.4,Region XI - Davao,Davao Oriental
+2012,45.8,Region XI - Davao,Davao Oriental
+2015,29.9,Region XI - Davao,Davao Oriental
+2006,37.7,Region XI - Davao,Compostela Valley
+2009,36.6,Region XI - Davao,Compostela Valley
+2012,36.7,Region XI - Davao,Compostela Valley
+2015,28.1,Region XI - Davao,Compostela Valley
+1991,53.3,Region XII - SOCCSKSARGEN,All
+2006,37.9,Region XII - SOCCSKSARGEN,All
+2009,38.3,Region XII - SOCCSKSARGEN,All
+2012,44.7,Region XII - SOCCSKSARGEN,All
+2015,37.3,Region XII - SOCCSKSARGEN,All
+2006,31.4,Region XII - SOCCSKSARGEN,North Cotabato
+2009,30.6,Region XII - SOCCSKSARGEN,North Cotabato
+2012,52.4,Region XII - SOCCSKSARGEN,North Cotabato
+2015,41.4,Region XII - SOCCSKSARGEN,North Cotabato
+2006,49,Region XII - SOCCSKSARGEN,Saranggani
+2009,57.7,Region XII - SOCCSKSARGEN,Saranggani
+2012,53.2,Region XII - SOCCSKSARGEN,Saranggani
+2015,55.2,Region XII - SOCCSKSARGEN,Saranggani
+2006,31.7,Region XII - SOCCSKSARGEN,South Cotabato
+2009,31.6,Region XII - SOCCSKSARGEN,South Cotabato
+2012,32,Region XII - SOCCSKSARGEN,South Cotabato
+2015,24.6,Region XII - SOCCSKSARGEN,South Cotabato
+2006,52,Region XII - SOCCSKSARGEN,Sultan Kudarat
+2009,51.5,Region XII - SOCCSKSARGEN,Sultan Kudarat
+2012,48.5,Region XII - SOCCSKSARGEN,Sultan Kudarat
+2015,48,Region XII - SOCCSKSARGEN,Sultan Kudarat
+2006,34.4,Region XII - SOCCSKSARGEN,Cotabato City
+2009,34,Region XII - SOCCSKSARGEN,Cotabato City
+2012,44.3,Region XII - SOCCSKSARGEN,Cotabato City
+2015,31.6,Region XII - SOCCSKSARGEN,Cotabato City
+1991,54.3,Region XIII - Caraga,All
+2006,49.2,Region XIII - Caraga,All
+2009,54.4,Region XIII - Caraga,All
+2012,40.3,Region XIII - Caraga,All
+2015,39.1,Region XIII - Caraga,All
+2006,44.1,Region XIII - Caraga,Agusan del Norte
+2009,45.9,Region XIII - Caraga,Agusan del Norte
+2012,34.7,Region XIII - Caraga,Agusan del Norte
+2015,34.9,Region XIII - Caraga,Agusan del Norte
+2006,53.8,Region XIII - Caraga,Agusan del Sur
+2009,60,Region XIII - Caraga,Agusan del Sur
+2012,48.1,Region XIII - Caraga,Agusan del Sur
+2015,47.3,Region XIII - Caraga,Agusan del Sur
+2006,52.7,Region XIII - Caraga,Surigao Del Norte
+2009,57.9,Region XIII - Caraga,Surigao Del Norte
+2012,41.8,Region XIII - Caraga,Surigao Del Norte
+2015,34.7,Region XIII - Caraga,Surigao Del Norte
+2006,46.5,Region XIII - Caraga,Surigao Del Sur
+2009,53.7,Region XIII - Caraga,Surigao Del Sur
+2012,36,Region XIII - Caraga,Surigao Del Sur
+2015,40.1,Region XIII - Caraga,Surigao Del Sur
+1991,30.5,ARMM -  Autonomous Region in Muslim Mindanao,All
+2006,47.1,ARMM -  Autonomous Region in Muslim Mindanao,All
+2009,47.4,ARMM -  Autonomous Region in Muslim Mindanao,All
+2012,55.8,ARMM -  Autonomous Region in Muslim Mindanao,All
+2015,53.7,ARMM -  Autonomous Region in Muslim Mindanao,All
+2006,39,ARMM -  Autonomous Region in Muslim Mindanao,Basilan
+2009,36.6,ARMM -  Autonomous Region in Muslim Mindanao,Basilan
+2012,41.2,ARMM -  Autonomous Region in Muslim Mindanao,Basilan
+2015,37,ARMM -  Autonomous Region in Muslim Mindanao,Basilan
+2006,44.7,ARMM -  Autonomous Region in Muslim Mindanao,Lanao del Sur
+2009,56.6,ARMM -  Autonomous Region in Muslim Mindanao,Lanao del Sur
+2012,73.8,ARMM -  Autonomous Region in Muslim Mindanao,Lanao del Sur
+2015,71.9,ARMM -  Autonomous Region in Muslim Mindanao,Lanao del Sur
+2006,54.6,ARMM -  Autonomous Region in Muslim Mindanao,Maguindanao
+2009,52.2,ARMM -  Autonomous Region in Muslim Mindanao,Maguindanao
+2012,63.7,ARMM -  Autonomous Region in Muslim Mindanao,Maguindanao
+2015,57.2,ARMM -  Autonomous Region in Muslim Mindanao,Maguindanao
+2006,40.7,ARMM -  Autonomous Region in Muslim Mindanao,Sulu
+2009,41.6,ARMM -  Autonomous Region in Muslim Mindanao,Sulu
+2012,45.8,ARMM -  Autonomous Region in Muslim Mindanao,Sulu
+2015,54.9,ARMM -  Autonomous Region in Muslim Mindanao,Sulu
+2006,52.4,ARMM -  Autonomous Region in Muslim Mindanao,Tawi-tawi
+2009,35.3,ARMM -  Autonomous Region in Muslim Mindanao,Tawi-tawi
+2012,28.6,ARMM -  Autonomous Region in Muslim Mindanao,Tawi-tawi
+2015,12.6,ARMM -  Autonomous Region in Muslim Mindanao,Tawi-tawi
